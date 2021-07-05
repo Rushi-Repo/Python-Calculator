@@ -1,3 +1,3 @@
 Name : Rushikesh Kshirsagar
 
-Calculator project for WSD summer semester.
+Calculator developed in python project for WSD summer semester.
