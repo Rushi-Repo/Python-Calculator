@@ -34,7 +34,7 @@ def root(num1):
     return round(num1 ** 0.5, 8)
 
 
-class Calculator:  # Class named 'Calculator'
+class Calculator:  # Class 'Calculator'
     result = 0
 
     def __init__(self):  # Class constructor
